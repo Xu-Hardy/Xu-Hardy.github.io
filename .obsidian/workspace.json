@@ -148,9 +148,10 @@
   },
   "active": "80129156cf88fc02",
   "lastOpenFiles": [
+    "source/_posts/零碎生活/血型.md",
+    "source/_posts/零碎生活/消毒药水.md",
     "Pasted image 20230702120450.png",
     "source/todo/index.md",
-    "source/_posts/零碎生活/消毒药水.md",
     "scaffolds/post.md",
     "scaffolds/page.md",
     "scaffolds/draft.md",
@@ -192,7 +193,6 @@
     "node_modules/hexo-cli/assets/themes/landscape/source/css/images/banner.jpg",
     "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_loading@2x.gif",
     "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/blank.gif",
-    "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_loading.gif",
-    "node_modules/highlight.js/styles/brown-papersq.png"
+    "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_loading.gif"
   ]
 }
