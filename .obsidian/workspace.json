@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "632d8d047efcd07e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9b0b4f75ef4e54c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80129156cf88fc02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/零碎生活/消毒药水.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2c41a8187996e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea282215cd065cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3e4fdf08e2b73ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0f213c61e93661d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "688288fa6b014912",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e9f2d8e01e163f88",
+    "type": "split",
+    "children": [
+      {
+        "id": "c96d4b1a2cd5dab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2fc97e8ea473c78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/零碎生活/消毒药水.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9be0ee1ab31109eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/零碎生活/消毒药水.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e749ff512039926",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92439b6745b63be6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/零碎生活/消毒药水.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "80129156cf88fc02",
+  "lastOpenFiles": [
+    "Pasted image 20230702120450.png",
+    "source/todo/index.md",
+    "source/_posts/零碎生活/消毒药水.md",
+    "scaffolds/post.md",
+    "scaffolds/page.md",
+    "scaffolds/draft.md",
+    "Readme.md",
+    "source/_posts/吃货风云/无限续面.md",
+    "node_modules/@babel/parser/package.json",
+    "node_modules/@babel/parser/typings/babel-parser.d.ts",
+    "node_modules/@babel/parser/typings",
+    "node_modules/@babel/types/package.json",
+    "node_modules/@babel/types/lib/validators/validate.js.map",
+    "node_modules/@babel/types/lib/validators/validate.js",
+    "node_modules/@babel/types/lib/validators/react/isReactComponent.js.map",
+    "node_modules/@babel/types/lib/validators/react/isReactComponent.js",
+    "node_modules/@babel/types/lib/validators/react/isCompatTag.js.map",
+    "node_modules/@babel/types/lib/validators/react/isCompatTag.js",
+    "node_modules/caniuse-lite/README.md",
+    "node_modules/hexo-cli/assets/themes/landscape/source/css/fonts/fontawesome-webfont.svg",
+    "node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/README.md",
+    "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_sprite.png",
+    "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_overlay.png",
+    "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_sprite@2x.png",
+    "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/helpers/fancybox_buttons.png",
+    "node_modules/@babel/highlight/node_modules/ansi-styles/readme.md",
+    "node_modules/dom-serializer/node_modules/entities/readme.md",
+    "node_modules/@babel/highlight/node_modules/chalk/readme.md",
+    "node_modules/@babel/highlight/node_modules/color-name/README.md",
+    "node_modules/hexo-cli/README.md",
+    "node_modules/hexo-cli/completion/README.md",
+    "node_modules/hexo-cli/assets/themes/landscape/README.md",
+    "node_modules/hexo-cli/assets/source/_posts/hello-world.md",
+    "node_modules/hexo-cli/assets/scaffolds/post.md",
+    "node_modules/hexo-cli/assets/scaffolds/page.md",
+    "node_modules/hexo-cli/assets/scaffolds/draft.md",
+    "node_modules/hexo-abbrlink/node_modules/argparse/README.md",
+    "node_modules/hexo-abbrlink/node_modules/argparse/CHANGELOG.md",
+    "node_modules/@babel/highlight/node_modules/supports-color/readme.md",
+    "node_modules/compression/node_modules/ms/readme.md",
+    "node_modules/compression/node_modules/ms/license.md",
+    "node_modules/hexo-cli/assets/themes/landscape/source/css/images/banner.jpg",
+    "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_loading@2x.gif",
+    "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/blank.gif",
+    "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_loading.gif",
+    "node_modules/highlight.js/styles/brown-papersq.png"
+  ]
+}
