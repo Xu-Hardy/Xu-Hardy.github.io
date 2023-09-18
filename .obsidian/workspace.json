@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b0b4f75ef4e54c",
+        "id": "2b97b979a72740e0",
         "type": "tabs",
         "children": [
           {
-            "id": "80129156cf88fc02",
+            "id": "a6efa236f7ef1092",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/Blog/hexo搭建RSS订阅.md",
+                "file": "source/_posts/零碎生活/网络维修记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pypi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "right": {
     "id": "e9f2d8e01e163f88",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Blog/hexo搭建RSS订阅.md",
+                "file": "source/_posts/零碎生活/网络维修记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Blog/hexo搭建RSS订阅.md",
+                "file": "source/_posts/零碎生活/网络维修记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Blog/hexo搭建RSS订阅.md"
+                "file": "source/_posts/零碎生活/网络维修记录.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,25 +145,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80129156cf88fc02",
+  "active": "a6efa236f7ef1092",
   "lastOpenFiles": [
-    "source/_posts/Blog/hexo注意.md",
-    "source/_posts/Blog/hexo搭建RSS订阅.md",
+    "source/_posts/零碎生活/生活小妙招.md",
+    "source/_posts/零碎生活/蔡司配镜.md",
+    "source/_posts/零碎生活/峰谷电.md",
+    "source/_posts/零碎生活/举报措施.md",
+    "source/_posts/零碎生活/身份证科普.md",
+    "source/_posts/零碎生活/网络维修记录.md",
+    "source/_posts/零碎生活/消毒药水.md",
+    "source/_posts/零碎生活/北京租房心得.md",
+    "scaffolds/post.md",
+    "Pasted image 20230702120450.png",
+    "source/_posts/电子产品/睡眠耳机.md",
+    "source/_posts/电子产品/梦想桌搭清单.md",
     "source/_posts/电子产品/小米4A刷OpenWrt.md",
+    "source/_posts/电子产品/打印机改无线.md",
+    "source/_posts/电子产品/工具集锦.md",
+    "source/_posts/电子产品/工作台改造计划.md",
+    "source/_posts/电子产品/记录mokee刷机.md",
+    "source/_posts/电子产品/硬件常见的坑.md",
+    "source/_posts/Blog/hexo搭建RSS订阅.md",
+    "source/_posts/Blog/hexo注意.md",
     "source/_posts/电子产品/小米Ax5400双宽带叠加.md",
     "source/_posts/电子产品/随航.md",
-    "source/_posts/零碎生活/消毒药水.md",
-    "source/_posts/零碎生活/生活小妙招.md",
-    "source/_posts/零碎生活/举报措施.md",
-    "source/_posts/零碎生活/蔡司配镜.md",
     "Readme.md",
-    "Pasted image 20230702120450.png",
     "source/_posts/零碎生活/血型.md",
     "source/todo/index.md",
-    "scaffolds/post.md",
     "scaffolds/page.md",
     "scaffolds/draft.md",
-    "source/_posts/吃货风云/无限续面.md",
     "node_modules/@babel/parser/package.json",
     "node_modules/@babel/parser/typings/babel-parser.d.ts",
     "node_modules/@babel/parser/typings",
@@ -175,21 +184,11 @@
     "node_modules/@babel/types/lib/validators/react/isReactComponent.js",
     "node_modules/@babel/types/lib/validators/react/isCompatTag.js.map",
     "node_modules/@babel/types/lib/validators/react/isCompatTag.js",
-    "node_modules/caniuse-lite/README.md",
     "node_modules/hexo-cli/assets/themes/landscape/source/css/fonts/fontawesome-webfont.svg",
-    "node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/README.md",
     "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_sprite.png",
     "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_overlay.png",
     "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_sprite@2x.png",
     "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/helpers/fancybox_buttons.png",
-    "node_modules/@babel/highlight/node_modules/ansi-styles/readme.md",
-    "node_modules/dom-serializer/node_modules/entities/readme.md",
-    "node_modules/@babel/highlight/node_modules/chalk/readme.md",
-    "node_modules/@babel/highlight/node_modules/color-name/README.md",
-    "node_modules/hexo-cli/README.md",
-    "node_modules/hexo-cli/completion/README.md",
-    "node_modules/hexo-cli/assets/themes/landscape/README.md",
-    "node_modules/hexo-cli/assets/source/_posts/hello-world.md",
     "node_modules/hexo-cli/assets/themes/landscape/source/css/images/banner.jpg",
     "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/fancybox_loading@2x.gif",
     "node_modules/hexo-cli/assets/themes/landscape/source/fancybox/blank.gif",
